@@ -32,5 +32,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 # Contact
 Email: vermasmriti654@yahoo.com
-LinkedIn: Smriti Verma
-GitHub: Smriti030804
+LinkedIn: https://www.linkedin.com/in/smriti030804/
