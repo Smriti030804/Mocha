@@ -18,7 +18,7 @@ This project is a portfolio website created using HTML, CSS, and JavaScript. It 
 * Responsive Design: Media queries for different device sizes.
 
 # Installation
-* Clone the repository: `git clone https://github.com/Smriti030804/portfolio-website.git`
+* Clone the repository: `git clone https://github.com/Smriti030804/Mocha.git`
 
 * Open the `index.html` file in a web browser to view the website.
 
